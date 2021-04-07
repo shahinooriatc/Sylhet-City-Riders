@@ -1,0 +1,11 @@
+.home {
+  background: url("https://i.ibb.co/HKm3yb0/Bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 750px) {
+  .home {
+    height: 100%;
+  }
+}

@@ -1,0 +1,63 @@
+.logInPage h4 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+.logInPage {
+  padding-top: 100px;
+}
+.boxInside {
+  margin: auto;
+  width: 570px;
+  height: 400px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid #ababab;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 19px;
+}
+.input {
+  border: none;
+  border-bottom: 1px solid #c5c5c5;
+  outline: none !important;
+}
+@media screen and (max-width: 800px) {
+  .boxInside {
+    width: 100%;
+  }
+}
+.logInPage .googleBtn ,.fbBtn{
+  border-radius: 15px;
+  width: 400px;
+  height: 40px;
+  border: 1px solid gray;
+  background-color: white;
+  cursor: pointer;
+}
+.googleBtn img {
+ height: 30px; 
+
+}
+.fbBtn img {
+  height: 30px;
+}
+@media screen and (max-width: 800px) {
+  .logInPage .googleBtn ,.fbBtn{
+    width: 100%;
+  }
+}
+.pass-wrapper {
+  position: relative;
+  display: flex;
+  margin-bottom: 14px;
+}
+i {
+  position: absolute;
+  top: 55%;
+  right: 10%;
+}
+i:hover {
+  color: #00fcb6;
+  cursor: pointer;
+}

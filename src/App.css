@@ -1,0 +1,29 @@
+.homeDetails {
+  margin-top: 150px;
+}
+.homeDetails img {
+  width: 200px;
+  margin: auto;
+}
+.homeDetails .card {
+  height: 264px;
+  background: #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 1196px) {
+  .homeDetails img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .homeDetails .card {
+    width: 270px;
+    height: 270px;
+    background: #ffffff;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+}

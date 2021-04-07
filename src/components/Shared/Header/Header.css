@@ -1,0 +1,13 @@
+
+.nav-item{
+    padding-left: 15px;
+}
+.loginBtn{
+height: 44px;
+padding: 10px 20px !important;
+background: #FF6E40;
+border-radius: 5px;
+}
+.nav-link{
+    font-weight: 700;
+}

@@ -1,5 +1,7 @@
 GitHub Ripo: https://github.com/Porgramming-Hero-web-course/react-auth-shahinooriatc 
-Live Link: https://zealous-euclid-516e7e.netlify.app/
+Live Link: https://musing-spence-a11549.netlify.app/
+
+            https://zealous-euclid-516e7e.netlify.app/(NOt working Properly)
 
 
 Project Use:Sylhet City Riders
