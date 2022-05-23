@@ -1,7 +1,6 @@
-GitHub Ripo: https://github.com/Porgramming-Hero-web-course/react-auth-shahinooriatc 
+GitHub Ripo: https://github.com/shahinooriatc/Sylhet-City-Riders
 Live Link: https://musing-spence-a11549.netlify.app/
 
-            https://zealous-euclid-516e7e.netlify.app/(NOt working Properly)
 
 
 Project Use:Sylhet City Riders
@@ -12,6 +11,7 @@ React Js
 Css
 React Hook
 Context
+
 ![Screenshot 2021-03-21 151704](https://user-images.githubusercontent.com/67514668/112097006-815d6100-8bc9-11eb-86b9-30c636387b7e.png)
 
 #Login:
