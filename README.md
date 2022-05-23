@@ -14,9 +14,9 @@ React Hook
 Context
 ![Screenshot 2021-03-21 151704](https://user-images.githubusercontent.com/67514668/112097006-815d6100-8bc9-11eb-86b9-30c636387b7e.png)
 
-#Registration:
+#Login:
 ![alt text](https://github.com/shahinooriatc/Sylhet-City-Riders/blob/979017caa8140d044de4e63bbbed19fe59aa17b1/public/assets/images/register.PNG)
- #Login:
+ #Registration:
 ![alt text](https://github.com/shahinooriatc/Sylhet-City-Riders/blob/979017caa8140d044de4e63bbbed19fe59aa17b1/public/assets/images/login.PNG)
 
 
